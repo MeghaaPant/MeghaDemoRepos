@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "MeghaDataFactory2"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
