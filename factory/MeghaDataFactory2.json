@@ -1,0 +1,9 @@
+{
+	"name": "MeghaDataFactory2",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a6b2370e-0dc9-485e-a43b-a07d74200bfe",
+		"tenantId": "62ef0669-0327-423b-9e8b-175af2dcf23c"
+	}
+}
